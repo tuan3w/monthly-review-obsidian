@@ -1,6 +1,6 @@
 {
-  "name": "monthly-obsidian",
-  "version": "1.6.3",
+  "name": "monthly-review-obsidian",
+  "version": "0.1.0",
   "description": "Add a link to the current note to a monthly note.",
   "main": "main.js",
   "repository": "tuan3w/monthly-review-obsidian",
