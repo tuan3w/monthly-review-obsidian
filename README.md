@@ -8,8 +8,6 @@ Monthly Review allows you to add the current note to monthly note.
 Review integrates with (and therefore requires) the [Prediodic Notes plugin](https://github.com/liamcain/obsidian-periodic-notes). Please install it first.
 
 ### Setup
-Make sure you _review_ (heh) the plugin's settings to assign:
-- Your daily notes folder (defaults to `/`); and
 - A heading for the review section (defaults to `## Links`).
 
 ### Manually installing the plugin
