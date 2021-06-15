@@ -1,15 +1,15 @@
 {
-  "name": "review-obsidian",
+  "name": "monthly-obsidian",
   "version": "1.6.3",
-  "description": "Add a link to the current note to a daily note on a future date (or a past date, you time traveller).",
+  "description": "Add a link to the current note to a monthly note.",
   "main": "main.js",
-  "repository": "ryanjamurphy/review-obsidian",
+  "repository": "tuan3w/monthly-review-obsidian",
   "scripts": {
     "dev": "rollup --config rollup.config.js -w",
     "build": "rollup --config rollup.config.js"
   },
   "keywords": [],
-  "author": "ryanjamurphy",
+  "author": "tuan3w",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.1.0",

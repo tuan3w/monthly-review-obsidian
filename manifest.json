@@ -1,9 +1,9 @@
 {
-  "id": "review-obsidian",
-  "name": "Review",
+  "id": "monthly-review-obsidian",
+  "name": "Monthly Review",
   "version": "1.6.3",
-  "description": "Add a link to the current note to a daily note on a future date (or a past date, you time traveller).",
-  "author": "ryanjamurphy",
-  "authorUrl": "https://axle.design",
+  "description": "Add a link from the current note to a monthly note.",
+  "author": "tuan3w",
+  "authorUrl": "https://github.com/tuan3w",
   "isDesktopOnly": false
 }
